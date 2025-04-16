@@ -12,5 +12,11 @@ SFX Editor for both Battalion Wars games (WIP)
 - Simple deployment of changes to game files
 
 # Screenshots
-![Screenshot 2025-04-11 223720](https://github.com/user-attachments/assets/6733d67f-cccc-4f72-a851-8d4c6607ac92)
+![Screenshot 2025-04-16 114548](https://github.com/user-attachments/assets/32af40af-f572-4266-9371-9a09b8871462)
 ![Screenshot 2025-04-11 223813](https://github.com/user-attachments/assets/6e4f065d-f616-48b3-85ea-6d6774e442da)
+
+![Screenshot 2025-04-16 114601](https://github.com/user-attachments/assets/3fce19b2-fa42-4e25-9f67-825944c2a49e)
+![Screenshot 2025-04-16 114610](https://github.com/user-attachments/assets/db4a15da-11e8-4520-81ac-f2f3a58ca965)
+![Screenshot 2025-04-16 114619](https://github.com/user-attachments/assets/c553d2ca-9a23-4d83-9ac6-dc33ad1ce4e5)
+![Screenshot 2025-04-16 114627](https://github.com/user-attachments/assets/27cc31ab-5552-41e2-ab0c-f6444a345624)
+![Screenshot 2025-04-16 114635](https://github.com/user-attachments/assets/b8adc96c-10e1-4e37-be96-d3f82463e152)
